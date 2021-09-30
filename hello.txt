@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 hello git！hello ruijixiang！rui123
-=======
-hello git！hello ruijixiang！hot-fix
->>>>>>> hot-fix
 hello git！hello ruijixiang！
 hello git！hello ruijixiang！
 
